@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "Goods": "/components/goodsList/index",
+    "Search": "/components/searchBar/index"
+  }
+}

@@ -1,0 +1,4 @@
+
+
+<!-- 搜索结果 -->
+<Goods list="{{list}}"></Goods>

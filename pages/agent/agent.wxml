@@ -1,0 +1,4 @@
+<!--pages/agent/agent.wxml-->
+<!-- <image src=''></image> -->
+<!-- <open-data type="userAvatarUrl" class="agentBtnUrl"></open-data> -->
+<button class="agentBtn" open-type='getUserInfo' bindgetuserinfo='getUserinfo'>获取用户登录信息哦</button>
